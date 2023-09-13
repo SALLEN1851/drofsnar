@@ -1,0 +1,15 @@
+/Users/scott/Desktop/ElevenFifty/dotnetProjects/Drofsnar/obj/Debug/net7.0/DrofsnarGame.csproj.AssemblyReference.cache
+/Users/scott/Desktop/ElevenFifty/dotnetProjects/Drofsnar/obj/Debug/net7.0/DrofsnarGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scott/Desktop/ElevenFifty/dotnetProjects/Drofsnar/obj/Debug/net7.0/DrofsnarGame.AssemblyInfoInputs.cache
+/Users/scott/Desktop/ElevenFifty/dotnetProjects/Drofsnar/obj/Debug/net7.0/DrofsnarGame.AssemblyInfo.cs
+/Users/scott/Desktop/ElevenFifty/dotnetProjects/Drofsnar/obj/Debug/net7.0/DrofsnarGame.csproj.CoreCompileInputs.cache
+/Users/scott/Desktop/ElevenFifty/dotnetProjects/Drofsnar/bin/Debug/net7.0/DrofsnarGame
+/Users/scott/Desktop/ElevenFifty/dotnetProjects/Drofsnar/bin/Debug/net7.0/DrofsnarGame.deps.json
+/Users/scott/Desktop/ElevenFifty/dotnetProjects/Drofsnar/bin/Debug/net7.0/DrofsnarGame.runtimeconfig.json
+/Users/scott/Desktop/ElevenFifty/dotnetProjects/Drofsnar/bin/Debug/net7.0/DrofsnarGame.dll
+/Users/scott/Desktop/ElevenFifty/dotnetProjects/Drofsnar/bin/Debug/net7.0/DrofsnarGame.pdb
+/Users/scott/Desktop/ElevenFifty/dotnetProjects/Drofsnar/obj/Debug/net7.0/DrofsnarGame.dll
+/Users/scott/Desktop/ElevenFifty/dotnetProjects/Drofsnar/obj/Debug/net7.0/refint/DrofsnarGame.dll
+/Users/scott/Desktop/ElevenFifty/dotnetProjects/Drofsnar/obj/Debug/net7.0/DrofsnarGame.pdb
+/Users/scott/Desktop/ElevenFifty/dotnetProjects/Drofsnar/obj/Debug/net7.0/DrofsnarGame.genruntimeconfig.cache
+/Users/scott/Desktop/ElevenFifty/dotnetProjects/Drofsnar/obj/Debug/net7.0/ref/DrofsnarGame.dll
