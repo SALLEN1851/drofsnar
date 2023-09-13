@@ -8,7 +8,6 @@ namespace Drofsnar
         private int score = 5000;
         private int hunters = 0;
         private int lives = 3;
-        private bool dead = false;
 
         string[] birdNames = 
         {
@@ -70,7 +69,7 @@ namespace Drofsnar
 
         Console.WriteLine($"{gameEvent} {birdScore} {score} {lives} {lifeEvent}");
 
-        if (dead)
+        if (lives <= 0)
         {
             Console.WriteLine("You Died!");
             break;
